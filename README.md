@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![常用lang](https://github-readme-stats.vercel.app/api/top-langs/?username=arctic603&layout=compact&theme=tokyonight)
 
 如果有爱好Mirai插件的JVM原生接口的自搭建均可与我一起。
-![Cpp的开发爱好群](https://jq.qq.com/?_wv=1027&k=deu5x2as)
+
