@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 ![仓库状态](https://github-readme-stats.vercel.app/api?username=arctic603&show_icons=true&theme=tokyonight)
 
-![访问量](https://profile-counter.glitch.me/all-smile/count.svg)
+![访问量](https://profile-counter.glitch.me/arctic603/count.svg)
 
-![常用lang](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+![常用lang](https://github-readme-stats.vercel.app/api/top-langs/?username=arctic603&layout=compact&theme=tokyonight)
