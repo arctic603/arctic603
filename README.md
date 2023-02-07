@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 如果有爱好Mirai插件的JVM原生接口的自搭建均可与我一起。
 
-[MiraiCP传送门][https://github.com/Nambers/MiraiCP]
+[MiraiCP传送门](https://github.com/Nambers/MiraiCP)
