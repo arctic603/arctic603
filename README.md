@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🤔 I’m looking for help with MineCraftLiteLoaderBDS plugin develop. I hoped that could build a miraiQQ constructer one day.
+- 🤔 major language with ModernCpp,Rust.
 - 📫 How to reach me: rayonsun@outlook.com/3186393716@qq.com
 
 ### 仓库状态
@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ### 常用language
 ![常用lang](https://github-readme-stats.vercel.app/api/top-langs/?username=arctic603&layout=compact&theme=tokyonight)
 
-如果有爱好Mirai插件的JVM原生接口的自搭建均可与我一起。
 
+- 下方是相关兴趣项目的传送门
 [MiraiCP传送门](https://github.com/Nambers/MiraiCP)
+
+LiteLoaderBDS Minecraft
